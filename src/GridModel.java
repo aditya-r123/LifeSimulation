@@ -4,7 +4,7 @@ import java.util.Arrays;
 /**
  * This is a class the can be used to store a 2D array of objects of any type. GridListeners that are
  * added to the list of listeners will be notified whenever changes are made to the 2D array.
- * @author Ted_McLeod
+ * 
  *
  * @param <T> the type of objects stored in the 2D array
  */

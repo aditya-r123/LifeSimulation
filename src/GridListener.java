@@ -1,7 +1,7 @@
 
 /**
  * GridListeners can add themselves as a listener to a GridModel to be notified of changes to the grid.
- * @author Ted_McLeod
+ * 
  *
  * @param <T> the type of data stored in the GridModel
  */

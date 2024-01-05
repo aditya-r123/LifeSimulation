@@ -1,19 +1,4 @@
 
-/*
-Name: Aditya Rao
-Period: 4
-Date: 4/10
-Time taken: 1 hour
-
-This was a really fun lab for me. At first, I was a little confused on how all 
-the classes and methods work. But once I looked through the slides, youtube 
-videos, and classes/methods themselves, I understood everything. It also took 
-a while to test, as when I found an issue, I had to go back to the code, 
-fix it, and run the program again. I made the default grid a 5 by 5, but 
-this can be changed by editing the file, and reading the new dimensions 
-and grid values from it. I am excited to see what we will add to 
-this project in the future, especially the animation!
-*/
 import java.io.File;
 import java.io.FileWriter;
 import java.util.ArrayList;

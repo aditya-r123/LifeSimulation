@@ -1,20 +1,4 @@
 
-/*
-Name: Aditya Rao
-Period: 4
-Date: 4/23
-Time taken: 2 hours
-
-This was a really fun lab for me. It was nice to build off of the previous lab. 
-I was easily able to do all of the required things. So I decided add do some 
-extra/optional features. For my sliders, I display the value next to the label 
-of the slider. For the cell size slider, I display an number and for the animation 
-speed slider, I display a description of the speed in word form. Also, the user 
-is able to change the animation slider with the scroll bar. It goes to the left 
-if they scroll down, and it goes to the right if they scroll up. I also change 
-the text of the toggle button to the opposite of the current state to make it more 
-intuitive for the user. 
-*/
 import java.io.File;
 import java.io.FileWriter;
 import java.util.ArrayList;
